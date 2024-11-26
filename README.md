@@ -5,7 +5,7 @@
 La cursada regular se aprueba aprobando el 1er parcial y el 2do parcial,
 La cursada modalidad RECURSANTE, se aprueba aprobando el 1er,2do y 3er parcial
 
-en caso de desaprobar un parcial y su recuperatorio vas directo a Global(no recomendado, a menos que seas el Organizacion de computadoras y tengas la bendicion de Villagarcia)
+en caso de desaprobar un parcial y su recuperatorio vas directo a Global(no recomendado, a menos que seas el Organizacion de Computadoras(nah,i´d win) y tengas la bendicion de Villagarcia)
 
 [DRIVE CON MATERIAL(suele actualizarse siempre)](https://drive.google.com/drive/folders/1AjjNZd7eodmIUXTtmeaqDT7n_tccW6dj?usp=sharing)
 
