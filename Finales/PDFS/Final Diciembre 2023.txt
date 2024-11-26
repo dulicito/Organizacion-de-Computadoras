@@ -1,0 +1,20 @@
+1)a)Mantisa de 6 bits BCS con bit implícito 
+    Exponente 5  bits Exceso a 16
+    Representar (leg-20000)
+  b)Calcular EA(X) y Error Relativo
+
+2) a-Describa cómo puede construir un sumador binario completo de (1) Bit
+    b-definir cuáles funciones lógicas utilizará en él y su tabla de verdad
+    c-Realice un esquema de interconexión de compuertas de dichos sumador
+
+3) a-enumerar elementos a tener en cuenta para diseñar un conjunto de instrucciones
+    b-Qué es el ciclo de instrucción 
+
+4) completada ADD AX,mem
+   a-con qué tipo de instrucciones continuará un programa para determinar el resultado obtenido
+      es correcto o no
+   b-Escriba la secuencia de instrucciones considerando los casos de representación de números
+      en signos y en Ca2
+
+5) describe interna y los elementos que componen una memoria semi conductora con organización 2D
+   Cómo se calcula el tiempo de acceso a un disco magnético
