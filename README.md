@@ -2,7 +2,7 @@
  > nivel de dificultad: intermedio, el nivel de dificultad puede disminuir si tenes de profe al mejor fokin profe de teoria de OC, obvio estoy hablando de Runco, si lo complementas con los videos de Genaro y Joaquin Bogado llegas a la promo de una 
 
 
-La cursada regular se aprueba aprobando el 1er parcial y el 2do parcial
+La cursada regular se aprueba aprobando el 1er parcial y el 2do parcial,
 La cursada modalidad RECURSANTE, se aprueba aprobando el 1er,2doy 3er parcial
 
 en caso de desaprobar un parcial y su recuperatorio vas directo a Global(no recomendado, a menos que seas el Organizacion de computadoras y tengas la bendicion de Villagarcia)
